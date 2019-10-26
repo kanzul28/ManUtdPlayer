@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManUtdPlayer</string>
+    <string name="players_name">Player Name</string>
+    <string name="detail">Detail</string>
+    <string name="list_players">List Players</string>
+    <string name="about_me">About Me</string>
+    <string name="name">Kanzul Faisal Alam Mina</string>
+
+</resources>
